@@ -1,9 +1,7 @@
-### Î¢ÈíMEFÀ©Õ¹¿ò¼Ü²âÊÔ
-* ²âÊÔÁË¶àÀà¿â¼ÓÔØ·½Ê½  
-Ê¹ÓÃÈ¥³ýÖØ¸´Ó¦ÓÃCommonÀà¿âµÄ·½Ê½Ê§°Ü£¬×îºó¸ÄÎª½«Common±äÎª½Ó¿Ú·½Ê½±»ÆäËûÀà¿âÒýÓÃ
-* ²âÊÔÁË´øÓÐContractNameµÄµ¼³öµ¼Èë
-* ²âÊÔÁË´øÓÐTypeµÄµ¼Èëµ¼³ö
-* ²âÊÔÁË´øÓÐImportManyµÄµ¼Èë
-* ²âÊÔÁËº¬ÓÐMetaDataµÄLazy·½Ê½µ¼Èë¼°Ë§Ñ¡  
-
-### Ë®Æ½ÓÐÏÞ¸Õ¸Õ½Ó´¥¿ÉÄÜÓÐÀí½â´íÎóµÈ£¬Èç¹ûÎÊÌâ¿ÉÓÊ¼þ±¾ÈË
+### å¾®è½¯MEFæ‰©å±•æ¡†æž¶æµ‹è¯•
+* æµ‹è¯•äº†å¤šç±»åº“åŠ è½½æ–¹å¼  
+ä½¿ç”¨åŽ»é™¤é‡å¤åº”ç”¨Commonç±»åº“çš„æ–¹å¼å¤±è´¥ï¼Œæœ€åŽæ”¹ä¸ºå°†Commonå˜ä¸ºæŽ¥å£æ–¹å¼è¢«å…¶ä»–ç±»åº“å¼•ç”¨
+* æµ‹è¯•äº†å¸¦æœ‰ContractNameçš„å¯¼å‡ºå¯¼å…¥
+* æµ‹è¯•äº†å¸¦æœ‰Typeçš„å¯¼å…¥å¯¼å‡º
+* æµ‹è¯•äº†å¸¦æœ‰ImportManyçš„å¯¼å…¥
+* æµ‹è¯•äº†å«æœ‰MetaDataçš„Lazyæ–¹å¼å¯¼å…¥åŠå¸…é€‰  
